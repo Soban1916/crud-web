@@ -1,0 +1,89 @@
+body{
+    background-color: lightblue;
+}
+#site{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    margin-left: 430px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+#login{
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 165px;
+padding-top: 10px;
+}
+#ep{
+    
+    padding-left:40px 
+}
+#forgot{
+    padding-left: 143px;
+    padding-top: 13px;
+}
+.forget{
+text-decoration: none;
+color: blue;
+font-family: Arial, Helvetica, sans-serif;
+}
+#log{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.lo{
+    width: 325px;
+    padding: 13px;
+    border-radius: 10px;
+    border: 1px solid  rgb(50, 181, 241);
+    background-color: rgb(50, 181, 241);
+    color: aliceblue;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.lo:hover{
+    background-color: white;
+    color: black;
+}
+#dont-acc{
+    padding-left: 98px;
+}
+.si{
+    text-decoration: none;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#or{
+padding-left: 43px;
+margin-top: 28px;
+}
+.hr-lines::before{
+content: "";
+display: block;
+height: 2px;
+width: 130px;
+position: absolute;
+top: 50%;
+left: 0px;
+background: black;
+}
+.hr-lines{
+    position: relative;
+    max-width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+.hr-lines::after{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    background-color: black;
+}

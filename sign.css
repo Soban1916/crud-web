@@ -1,0 +1,59 @@
+body{
+    background-color: lightseagreen;
+}
+#sitee{
+    width: 400px;
+    height: 440px;
+    align-items: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top: 80px;
+}
+#signup{
+    padding-left: 150px;
+    padding-top: 15px;
+}
+.designsign{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#epc{
+    padding-left:35px;
+}
+.em{
+    padding: 9px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#signbutton{
+    padding-left: 41px;
+    padding-top: 10px;
+}
+.signb{
+    background-color: rgb(23, 190, 212);
+    border-radius: 10px;
+    border: 1px solid rgb(23, 190, 212);
+    width: 320px;
+    padding: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+.signb:hover{
+background-color: powderblue;
+color: black;
+}
+#all-acc{
+    padding-left: 90px;
+}
+.log{
+    text-decoration: none;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
